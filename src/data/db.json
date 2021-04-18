@@ -1,0 +1,161 @@
+{
+  "admins": [
+    {
+      "adminID": 112121,
+      "id": 1,
+      "name": "youssef reddam",
+      "email": "youssef.reddam.98@gmail.com",
+      "password": "h7bxcax",
+      "banList": [
+        {
+          "id": 1,
+          "userId": "121313131",
+          "banText": "to much shit"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "userID": 12130303,
+      "id": 1,
+      "password": "ayoublamhidra",
+      "name": "ayoub lamhidra",
+      "email": "ayoublamhidra@gmail.com",
+      "adresse": "Rue Istiqlal N 13 Sect ennahda Layaayda Sale",
+      "telephone": "0651152346",
+      "status": "null"
+    }
+  ],
+  "CVs": [
+    {
+      "userID": 12130303,
+      "id": 1,
+      "category": "experiences",
+      "items": [
+        {
+          "id": 1,
+          "entreprise": "RC2K Ingenierir",
+          "poste": "Ingénieur d'étude de dévloppement",
+          "description": "Ingénieur d'étude et de développement",
+          "date_debut": "2020-10-01",
+          "date_fin": "Aujourd'hui"
+        },
+        {
+          "id": 2,
+          "entreprise": "CurlyBracket",
+          "poste": "Ingénieur d'étude de dévloppement",
+          "description": "Ingénieur d'étude et de développement",
+          "date_debut": "2018-03-01",
+          "date_fin": "2020-10-01"
+        }
+      ]
+    },
+    {
+      "userID": 12130303,
+      "id": 2,
+      "category": "formation",
+      "items": [
+        {
+          "id": 1,
+          "ecole": "EMSI",
+          "description": "Cycle d'ingénieur à l'EMSI, Génie Informatique et Réseaux",
+          "date_debut": "2009-10-01",
+          "date_fin": "2014-10-01"
+        },
+        {
+          "id": 2,
+          "ecole": "Ahmed Chawki",
+          "description": "Baccalauréat Sciences Physique",
+          "date_debut": "2008-09-01",
+          "date_fin": "2009-07-01"
+        }
+      ]
+    },
+    {
+      "userID": 12130303,
+      "id": 3,
+      "category": "stage",
+      "items": [
+        {
+          "id": 1,
+          "entreprise": "DynIT",
+          "poste": "Projet de Fin d'étude",
+          "description": "Ingénieur d'étude et de développement",
+          "date_debut": "2014-03-01",
+          "date_fin": "2014-09-01"
+        },
+        {
+          "id": 2,
+          "entreprise": "SQLi",
+          "poste": "Concours national SQLi e-Challenge",
+          "description": "Ingénieur d'étude et de développement",
+          "date_debut": "2013-10-01",
+          "date_fin": "2013-12-01"
+        }
+      ]
+    },
+    {
+      "userID": 12130303,
+      "id": 4,
+      "category": "competence",
+      "items": [
+        {
+          "id": 1,
+          "title": "PHP"
+        },
+        {
+          "id": 2,
+          "title": "JAVA EE"
+        }
+      ]
+    },
+    {
+      "userID": 12130303,
+      "id": 5,
+      "category": "loisir",
+      "items": [
+        {
+          "id": 1,
+          "title": "Sport"
+        },
+        {
+          "id": 2,
+          "title": "Music"
+        }
+      ]
+    },
+    {
+      "userID": 12130303,
+      "id": 6,
+      "category": "contact",
+      "items": [
+        {
+          "id": 1,
+          "title": "FaceBook",
+          "url": "www.facebook.com"
+        },
+        {
+          "id": 2,
+          "title": "linkedIn",
+          "url": "www.linkedin.com"
+        }
+      ]
+    },
+    {
+      "userID": 12130303,
+      "id": 6,
+      "category": "search_tags",
+      "items": [
+        {
+          "id": 1,
+          "tag": "back-end"
+        },
+        {
+          "id": 2,
+          "tag": "Ingénieur"
+        }
+      ]
+    }
+  ]
+}
